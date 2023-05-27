@@ -1,2 +1,2 @@
-# csharp-basics
-The Basics of C# Languages and .NET Framework for Absolute Beginners
+# C# Essentials
+Introduction to C# Languages and .NET Framework
