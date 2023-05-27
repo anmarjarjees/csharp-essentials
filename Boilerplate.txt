@@ -1,0 +1,25 @@
+using System;
+
+namespace ProjectName // Note: actual namespace depends on the project name.
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+
+        } // main()    
+    } // class
+} // namespace
+
+OR:
+
+using System;
+
+namespace ProjectName // Note: actual namespace depends on the project name.
+{
+    class ClassName
+    {
+
+    } // class
+} // namespace
