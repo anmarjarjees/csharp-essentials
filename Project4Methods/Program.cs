@@ -1,4 +1,5 @@
 ﻿using System;
+// like import System in Java :-)
 
 namespace Project4Methods // Note: actual namespace depends on the project name.
 {

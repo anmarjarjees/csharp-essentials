@@ -1,5 +1,5 @@
 ﻿
-namespace OOP2Modifiers // Note: actual namespace depends on the project name.
+namespace OOP3Properties // Note: actual namespace depends on the project name.
 {
     public class Book
     {

@@ -1,4 +1,4 @@
-﻿namespace OOP2Modifiers
+﻿namespace OOP3Properties
 {
     class Program
     {
