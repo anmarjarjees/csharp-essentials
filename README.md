@@ -55,7 +55,10 @@ An assembly is the basic unit of deployment in .NET. It is also the container fo
 - "obj" folder: contains configuration files and other bits of data that the .NET CLI will use to compile and run the application.
 - "bin" folder that contains the two assemblies files plus others
 
-Notice that "bin" and "obj" folders are ignored in this repo
+### NOTE: 
+Notice that "bin" and "obj" folders are ignored in this repo, we don't need upload them as they can be generated when creating a new project! Just:
+- The .cs file(s)
+- The .csproj file
 
 # C# Naming:
 Some general naming recommendations based on the book "MS Visual C#" by John Sharp:
@@ -88,6 +91,7 @@ The commands:
 - [Microsoft.NET]​(https://dotnet.microsoft.com/en-us/)
 - [Microsoft C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [Visual Studio 2022 System Requirements]​(https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements#supported-operating-systems)
+- [Null safety in C#](https://learn.microsoft.com/en-us/training/modules/csharp-null-safety/)
 - [Dotnet Youtube Official Channel]​(https://www.youtube.com/@dotnet)
 - [Joe Marini](https://github.com/joemarini): Creative technology leader Partner Developer Relations Manager for Google
 - [Tim Corey](https://github.com/TimCorey): Software Development (.NET Specialized) Instructor​
